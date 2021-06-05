@@ -7,4 +7,19 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: darkgrey;
 }
+
+button {
+    height: 25px;
+    width: 175px;
+}
+
+input{
+    margin: 7px;
+    height: 25px;
+    width: 200;
+    border-radius: 6px;
+}
+
+
